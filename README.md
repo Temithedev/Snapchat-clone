@@ -1,6 +1,6 @@
-# anothersnapchat
+# anotheRsnapchat
 
-A new Flutter project.
+MY FIRST FLUTTER UI PROJECT.
 
 ## Getting Started
 
